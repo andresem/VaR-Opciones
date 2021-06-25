@@ -1,5 +1,5 @@
 
-# VaR-Opciones, implementación del artículo: *Métodos paramétricos de medición del Valor en Riesgo: aplicación a opciones financieras sobre divisas*
+# VaR-Opciones: implementación del artículo *Métodos paramétricos de medición del Valor en Riesgo: aplicación a opciones financieras sobre divisas*
 ### **Autores:**
 * Diana Guzmán Aguilar
 * Fredy Ocaris Pérez
