@@ -5,6 +5,7 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+## **Autores**
 * Diana Guzmán Aguilar
 * Fredy Ocaris Pérez
 * Carolina María Arboleda Arcila
